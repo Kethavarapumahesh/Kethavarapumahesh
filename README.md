@@ -1,8 +1,5 @@
 import java.util.*;
- 
-public class RomanToNumber {
-    // This function returns
-    // value of a Roman symbol
+ public class RomanToNumber {
     int value(char r)
     {
         if (r == 'I')
